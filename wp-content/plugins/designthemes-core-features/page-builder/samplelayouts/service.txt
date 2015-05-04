@@ -1,0 +1,112 @@
+<div style="opacity: 1; z-index: 1;" data-placeholder="Fullwidth Section" data-name="fullwidth_section" class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_fullwidth" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"><div class="backgroundcolor dt_module_setting" data-option_name="backgroundcolor"></div><div class="backgroundimage dt_module_setting" data-option_name="backgroundimage"></div><div class="opacity dt_module_setting" data-option_name="opacity"></div><div class="parallax dt_module_setting" data-option_name="parallax">no</div><div class="backgroundrepeat dt_module_setting" data-option_name="backgroundrepeat">no-repeat</div><div class="backgroundposition dt_module_setting" data-option_name="backgroundposition">left top</div><div class="paddingtop dt_module_setting" data-option_name="paddingtop"></div><div class="paddingbottom dt_module_setting" data-option_name="paddingbottom"></div><div class="textcolor dt_module_setting" data-option_name="textcolor"></div><div class="class dt_module_setting" data-option_name="class"></div><div class="disable_container dt_module_setting" data-option_name="disable_container">no</div></div>
+						</div><div class="dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Tabs Vertical" data-name="doshortcode_tabs_vertical" class="dt_module dt_m_doshortcode_tabs_vertical dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-tabs dt_icon"></span>
+					<span class="dt_module_name">Tabs Vertical</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="tv_content dt_module_setting dtthemes_module_content" data-option_name="tv_content"><p>[dt_sc_tabs_vertical data_animation='fadeInUp']<br>
+[dt_sc_tab title="Designing" font_awesome_icon="fa-pencil"]</p>
+<p><a href="http://placehold.it/572x269"><img width="751" height="353" alt="tabs-img" src="http://placehold.it/572x269" class="alignnone size-full wp-image-2031"></a><br>
+Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.<br>
+[/dt_sc_tab]<br>
+[dt_sc_tab title="Development" font_awesome_icon="fa-tasks" ]</p>
+<p>[dt_sc_bordered_h4 text="Development" class="alignleft" /]</p>
+<p>We are Minimalize from Magnitude. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
+<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words Ipsum comes from sections.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+<p>[/dt_sc_tab]<br>
+[dt_sc_tab title="Marketing" font_awesome_icon="fa-truck"]</p>
+<p>[dt_sc_bordered_h4 text="Marketing" class="alignleft" /]</p>
+<p>We are Minimalize from Magnitude. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
+<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words Ipsum comes from sections.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+<p>[/dt_sc_tab]</p>
+<p>[dt_sc_tab title="Online Security" font_awesome_icon="fa-unlock-alt"]</p>
+<p>[dt_sc_bordered_h4 text="Online Security" class="alignleft" /]</p>
+<p>We are Minimalize from Magnitude. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
+<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words Ipsum comes from sections.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+<p>[/dt_sc_tab]<br>
+[dt_sc_tab title="Mobile Application" font_awesome_icon="fa-mobile" ]</p>
+<p>[dt_sc_bordered_h4 text="Mobile Application" class="alignleft" /]</p>
+<p>We are Minimalize from Magnitude. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
+<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words Ipsum comes from sections.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+<p>[/dt_sc_tab]</p>
+<p>[dt_sc_tab title="Social Data Form" font_awesome_icon="fa-apple"]</p>
+<p>[dt_sc_bordered_h4 text="Social Data Form" class="alignleft" /]</p>
+<p>We are Minimalize from Magnitude. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages</p>
+<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words Ipsum comes from sections.</p>
+<p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.<br>
+[/dt_sc_tab]<br>
+[/dt_sc_tabs_vertical]</p>
+</div></div>
+					</div></div>
+					</div>
+<div style="opacity: 1; z-index: 1;" data-placeholder="Whitespace Large" data-name="hr_invisible_large" class="dt_module dt_m_hr_invisible_large dt_module_others dt_disable_resize  ui-draggable dt_first"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Large</span><div class="dt_module_options"><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div>
+<div style="opacity: 1; z-index: 1;" data-placeholder="Fullwidth Section" data-name="fullwidth_section" class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_fullwidth" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"><div class="backgroundcolor dt_module_setting" data-option_name="backgroundcolor"></div><div class="backgroundimage dt_module_setting" data-option_name="backgroundimage">http://placehold.it/1920x1286</div><div class="opacity dt_module_setting" data-option_name="opacity"></div><div class="parallax dt_module_setting" data-option_name="parallax">yes</div><div class="backgroundrepeat dt_module_setting" data-option_name="backgroundrepeat">no-repeat</div><div class="backgroundposition dt_module_setting" data-option_name="backgroundposition">left top</div><div class="paddingtop dt_module_setting" data-option_name="paddingtop">106</div><div class="paddingbottom dt_module_setting" data-option_name="paddingbottom">106</div><div class="textcolor dt_module_setting" data-option_name="textcolor"></div><div class="class dt_module_setting" data-option_name="class"></div><div class="disable_container dt_module_setting" data-option_name="disable_container">no</div></div>
+						</div><div class="dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Pricing Table" data-name="pricing_table" class="dt_module dt_m_pricing_table dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-pricingtable dt_icon"></span>
+					<span class="dt_module_name">Pricing Table</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="type dt_module_setting" data-option_name="type">type1</div><div class="ptclass dt_module_setting" data-option_name="ptclass"></div><div class="pt_content dt_module_setting dtthemes_module_content" data-option_name="pt_content"><p>[dt_sc_one_third first type = "type1"]</p>
+<p>[dt_sc_pricing_table_item heading='Basic' button_text='Buy Now' button_icon='check-circle-o' button_link='#' price='$40' per='mo' class =" " ]</p>
+<ul>
+<li>40 Unique Logins</li>
+<li>1TB Storage</li>
+<li>Remote Support</li>
+<li>Cloud Backup</li>
+<li>20+ Users</li>
+</ul>
+<p>[/dt_sc_pricing_table_item]</p>
+<p>[/dt_sc_one_third]<br>
+[dt_sc_one_third type = "type1"]</p>
+<p>[dt_sc_pricing_table_item heading='Standard' button_text='Buy Now' button_icon='check-circle-o' button_link='#' price='$250' per='mo' class =" " selected]</p>
+<ul>
+<li>200 Unique Logins</li>
+<li>5TB Storage</li>
+<li>Remote Support</li>
+<li>Cloud Backup</li>
+<li>100+ Users</li>
+</ul>
+<p>[/dt_sc_pricing_table_item]</p>
+<p>[/dt_sc_one_third]<br>
+[dt_sc_one_third type = "type1"]</p>
+<p>[dt_sc_pricing_table_item heading='Advanced' button_text='Buy Now' button_icon='check-circle-o' button_link='#' price='$500' per='mo' class =" " ]</p>
+<ul>
+<li>Unlimited Unique Logins</li>
+<li>Unlimited Storage</li>
+<li>Remote Support</li>
+<li>Cloud Backup</li>
+<li>Unlimited Users</li>
+</ul>
+<p>[/dt_sc_pricing_table_item]</p>
+<p>[/dt_sc_one_third]</p>
+</div></div>
+					</div></div>
+</div>

@@ -1,0 +1,36 @@
+/* This is a compiled file, you should be editing the file in the templates directory */
+
+.pace { -webkit-pointer-events: none; pointer-events: none; z-index: 9999999999; position: fixed; height: 90px; width: 90px; margin: auto; top: 0; left: 0; right: 0; bottom: 0;
+ background:url(../images/logo-img.png) center no-repeat #000; border-radius:50%; }
+
+.pace.pace-inactive .pace-activity { display: none; }
+.pace .pace-activity { position: fixed; z-index: 2000; display: block; position: absolute; left: -30px; top: -30px; height: 90px; width: 90px; display: block; border-width: 30px; border-style: double;
+ border-color: #fff transparent transparent; border-radius: 50%; -webkit-animation: spin 1s linear infinite; -moz-animation: spin 1s linear infinite; -o-animation: spin 1s linear infinite; animation: spin 1s linear infinite; }
+
+@-webkit-keyframes spin {
+	25% { -webkit-transform: rotate(90deg);  border-color: #111 transparent transparent;}
+  	50% { -webkit-transform: rotate(180deg);  border-color: #fff transparent transparent;}
+	75% { -webkit-transform: rotate(270deg);  border-color: #111 transparent transparent;}
+	100% { -webkit-transform: rotate(360deg);  border-color: #fff transparent transparent;}
+}
+
+@-moz-keyframes spin {
+	25% { -moz-transform: rotate(90deg);  border-color: #111 transparent transparent;}
+	75% { -moz-transform: rotate(180deg);  border-color: #fff transparent transparent;}
+	75% { -moz-transform: rotate(270deg);  border-color: #111 transparent transparent;}
+  	100% { -moz-transform: rotate(360deg);  border-color: #fff transparent transparent;}
+}
+
+@-o-keyframes spin {
+  	25% { -o-transform: rotate(90deg);  border-color: #111 transparent transparent;}
+	75% { -o-transform: rotate(180deg);  border-color: #fff transparent transparent;}
+	75% { -o-transform: rotate(270deg);  border-color: #111 transparent transparent;}
+  	100% { -o-transform: rotate(360deg);  border-color: #fff transparent transparent;}
+}
+
+@keyframes spin {
+  25% { transform: rotate(90deg);  border-color: #111 transparent transparent;}
+  50% { transform: rotate(180deg);  border-color: #fff transparent transparent;}
+  75% { transform: rotate(270deg);  border-color: #111 transparent transparent;}
+  100% { transform: rotate(360deg);  border-color: #fff transparent transparent;}
+}

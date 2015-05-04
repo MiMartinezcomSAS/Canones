@@ -1,0 +1,176 @@
+<div style="opacity: 1; z-index: 1;" data-placeholder="Fullwidth Section" data-name="fullwidth_section" class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_fullwidth" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"><div class="backgroundcolor dt_module_setting" data-option_name="backgroundcolor"></div><div class="backgroundimage dt_module_setting" data-option_name="backgroundimage"></div><div class="opacity dt_module_setting" data-option_name="opacity"></div><div class="parallax dt_module_setting" data-option_name="parallax">no</div><div class="backgroundrepeat dt_module_setting" data-option_name="backgroundrepeat">no-repeat</div><div class="backgroundposition dt_module_setting" data-option_name="backgroundposition">left top</div><div class="paddingtop dt_module_setting" data-option_name="paddingtop"></div><div class="paddingbottom dt_module_setting" data-option_name="paddingbottom"></div><div class="textcolor dt_module_setting" data-option_name="textcolor"></div><div class="class dt_module_setting" data-option_name="class"></div><div class="disable_container dt_module_setting" data-option_name="disable_container">no</div></div>
+						</div><div class="dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Team Carousel" data-name="doshortcode_teamcarousel" class="dt_module dt_m_doshortcode_teamcarousel dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-team dt_icon"></span>
+					<span class="dt_module_name">Team Carousel</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="tf_content dt_module_setting dtthemes_module_content" data-option_name="tf_content"><p>[dt_sc_team_carousel data_animation='fadeInUp']<br>
+[dt_sc_one_fourth first]<br>
+[dt_sc_team_type2 name="DesignThemes" role="Customer Support" image="http://placehold.it/228x267" twitter="#" facebook="#" instagram="#" dribbble="#"]</p>
+<p>We wont Express. But our Portfolios will!</p>
+<p>[/dt_sc_team_type2]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_team_type2 name="DesignThemes" role="Customer Support" image="http://placehold.it/228x267" twitter="#" facebook="#" instagram="#" dribbble="#"]</p>
+<p>We wont Express. But our Portfolios will!</p>
+<p>[/dt_sc_team_type2]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_team_type2 name="DesignThemes" role="Customer Support" image="http://placehold.it/228x267" twitter="#" facebook="#" instagram="#" dribbble="#"]</p>
+<p>We wont Express. But our Portfolios will!</p>
+<p>[/dt_sc_team_type2]<br>
+[/dt_sc_one_fourth]<br>
+[dt_sc_one_fourth]<br>
+[dt_sc_team_type2 name="DesignThemes" role="Customer Support" image="http://placehold.it/228x267" twitter="#" facebook="#" instagram="#" dribbble="#"]</p>
+<p>We wont Express. But our Portfolios will!</p>
+<p>[/dt_sc_team_type2]<br>
+[/dt_sc_one_fourth]</p>
+<p>[dt_sc_one_fourth]<br>
+[dt_sc_team_type2 name="DesignThemes" role="Customer Support" image="http://placehold.it/228x267" twitter="#" facebook="#" instagram="#" dribbble="#"]</p>
+<p>We wont Express. But our Portfolios will!</p>
+<p>[/dt_sc_team_type2]<br>
+[/dt_sc_one_fourth]<br>
+[/dt_sc_team_carousel]</p>
+</div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Whitespace Medium" data-name="hr_invisible_medium" class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize  ui-draggable dt_first"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Medium</span><div class="dt_module_options"><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Whitespace Small" data-name="hr_invisible_small" class="dt_module dt_m_hr_invisible_small dt_module_others dt_disable_resize  ui-draggable dt_first"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Small</span><div class="dt_module_options"><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Whitespace Toosmall" data-name="hr_invisible_toosmall" class="dt_module dt_m_hr_invisible_toosmall dt_module_others dt_disable_resize  ui-draggable dt_first"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace Toosmall</span><div class="dt_module_options"><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Bordered Heading 3" data-name="bordered_h3" class="dt_module dt_m_bordered_h3 dt_module_others  ui-draggable ui-resizable dt_first"><span class="ico-headings dt_icon"></span>
+					<span class="dt_module_name">Bordered Heading 3</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="text dt_module_setting" data-option_name="text">Our Progress</div><div class="class dt_module_setting" data-option_name="class"></div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="1/2 Column" data-name="one_half" class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_no_modules dt_first"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_column" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_columndata_settings"><div data-column_animation_delay="400" data-column_animation_type="None" data-column_type="type1" id="column_data"></div></div>
+						</div><div class="dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Add Any Content Here" data-name="doshortcode_anycontent" class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="acc_content dt_module_setting dtthemes_module_content" data-option_name="acc_content"><h4 class="alignleft">Design</h4>
+</div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Progress Bar-Type2" data-name="doshortcode_progressbartype2" class="dt_module dt_m_doshortcode_progressbartype2 dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-progressbar dt_icon"></span>
+					<span class="dt_module_name">Progress Bar-Type2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="th_content dt_module_setting dtthemes_module_content" data-option_name="th_content"><p>[dt_sc_progressbar value="80" type="type2"] Photoshop [/dt_sc_progressbar]</p>
+</div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Progress Bar-Type2" data-name="doshortcode_progressbartype2" class="dt_module dt_m_doshortcode_progressbartype2 dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-progressbar dt_icon"></span>
+					<span class="dt_module_name">Progress Bar-Type2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="th_content dt_module_setting dtthemes_module_content" data-option_name="th_content"><p>[dt_sc_progressbar value="60" type="type2"] HTML [/dt_sc_progressbar]</p></div></div></div><div style="opacity: 1; z-index: 1;" data-placeholder="Progress Bar-Type2" data-name="doshortcode_progressbartype2" class="dt_module dt_m_doshortcode_progressbartype2 dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-progressbar dt_icon"></span>
+					<span class="dt_module_name">Progress Bar-Type2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="th_content dt_module_setting dtthemes_module_content" data-option_name="th_content"><p>[dt_sc_progressbar value="75" type="type2"] Coraldraw [/dt_sc_progressbar]</p></div></div></div></div></div><div style="opacity: 1; z-index: 1;" data-placeholder="1/2 Column" data-name="one_half" class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_no_modules"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_column" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_columndata_settings"><div data-column_animation_delay="400" data-column_animation_type="None" data-column_type="type1" id="column_data"></div></div>
+						</div><div class="dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Add Any Content Here" data-name="doshortcode_anycontent" class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="acc_content dt_module_setting dtthemes_module_content" data-option_name="acc_content"><h4 class="alignleft">Development</h4>
+</div></div></div><div style="opacity: 1; z-index: 1;" data-placeholder="Progress Bar-Type2" data-name="doshortcode_progressbartype2" class="dt_module dt_m_doshortcode_progressbartype2 dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-progressbar dt_icon"></span>
+					<span class="dt_module_name">Progress Bar-Type2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="th_content dt_module_setting dtthemes_module_content" data-option_name="th_content"><p>[dt_sc_progressbar value="75" type="type2"] WordPress [/dt_sc_progressbar]</p>
+</div></div></div><div style="opacity: 1; z-index: 1;" data-placeholder="Progress Bar-Type2" data-name="doshortcode_progressbartype2" class="dt_module dt_m_doshortcode_progressbartype2 dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-progressbar dt_icon"></span>
+					<span class="dt_module_name">Progress Bar-Type2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="th_content dt_module_setting dtthemes_module_content" data-option_name="th_content"><p>[dt_sc_progressbar value="80" type="type2"] Shopify [/dt_sc_progressbar]</p>
+</div></div></div><div style="opacity: 1; z-index: 1;" data-placeholder="Progress Bar-Type2" data-name="doshortcode_progressbartype2" class="dt_module dt_m_doshortcode_progressbartype2 dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-progressbar dt_icon"></span>
+					<span class="dt_module_name">Progress Bar-Type2</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="th_content dt_module_setting dtthemes_module_content" data-option_name="th_content"><p>[dt_sc_progressbar value="60" type="type2"] BigCommerce [/dt_sc_progressbar]</p>
+</div></div></div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Whitespace" data-name="hr_invisible" class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable dt_first"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Clear" data-name="clear" class="dt_module dt_m_clear dt_module_others dt_disable_resize  ui-draggable dt_first"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Clear</span><div class="dt_module_options"><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div></div>
+					</div>
+<div style="opacity: 1; z-index: 1;" data-placeholder="Fullwidth Section" data-name="fullwidth_section" class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_fullwidth" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"><div class="backgroundcolor dt_module_setting" data-option_name="backgroundcolor"></div><div class="backgroundimage dt_module_setting" data-option_name="backgroundimage">http://placehold.it/1920x1200</div><div class="opacity dt_module_setting" data-option_name="opacity"></div><div class="parallax dt_module_setting" data-option_name="parallax">yes</div><div class="backgroundrepeat dt_module_setting" data-option_name="backgroundrepeat">no-repeat</div><div class="backgroundposition dt_module_setting" data-option_name="backgroundposition">left top</div><div class="paddingtop dt_module_setting" data-option_name="paddingtop">46</div><div class="paddingbottom dt_module_setting" data-option_name="paddingbottom">46</div><div class="textcolor dt_module_setting" data-option_name="textcolor"></div><div class="class dt_module_setting" data-option_name="class">dark-bg</div><div class="disable_container dt_module_setting" data-option_name="disable_container">no</div></div>
+						</div><div class="dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Testimonial Carousel" data-name="doshortcode_testimonial_carousel" class="dt_module dt_m_doshortcode_testimonial_carousel dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-testimonial dt_icon"></span>
+					<span class="dt_module_name">Testimonial Carousel</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="tmc_content dt_module_setting dtthemes_module_content" data-option_name="tmc_content"><p>[dt_sc_testimonial_carousel data_animation="fadeInUp"]</p>
+<ul>
+<li>[dt_sc_testimonial image="http://placehold.it/100x100" cite="Roman Reigns" role="CEO, ABS Communications"]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [/dt_sc_testimonial]</li>
+<li>[dt_sc_testimonial image="http://placehold.it/100x100" cite="Sheena Maya" role="Managing Director, RS Design Groups."]Etiam bibendum condimentum diam. Nunc quam neque, rutrum sit amet dolor vitae, adipiscing tempus elit.[/dt_sc_testimonial]</li>
+<li>[dt_sc_testimonial image="http://placehold.it/100x100" cite="Dean Ambrose" role="Owner, DG Associates"] Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.[/dt_sc_testimonial]</li>
+<li>[dt_sc_testimonial image="http://placehold.it/100x100" cite="Dolph Zingler" role="Team Leader, Sigmontel"] At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident. [/dt_sc_testimonial]</li>
+</ul>
+<p>[/dt_sc_testimonial_carousel]</p>
+</div></div>
+					</div></div>
+					</div>

@@ -1,0 +1,4 @@
+*** Minimalize - One Page Parallax Portfolio Theme Change log ***
+
+2015.04.04 - version 1.0
+ * First release!

@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wrapper.dark-bg, .boxed .wrapper.dark-bg .content, #blog.inner-page .content-main.dark-bg, .dark-bg .content-main, .dark-bg #blog.inner-page .content-main, .dark-bg.inner-page .content-main ul.commentlist li .reply, 
+.dark-bg .dt-sc-callout-box.with-icon.type1:hover, .dark-bg input[type="submit"], .dark-bg button, .dark-bg input[type="button"], ul.commentlist li.comment .reply { background: #111;}
+
+#main .pattern.banner.dark-bg { background:url(../images/dark-pattern-bg.png);  background-repeat:repeat; }
+
+.banner.dark-bg .caption h2, .banner.dark-bg .caption a.read-more, .dark-bg.main-title h1, .dark-bg.main-title h2, .dark-bg.main-title h3, .dark-bg.main-title h4, .dark-bg.main-title h5, .dark-bg.main-title h6, 
+.dark-bg.dt-sc-parallax-section .border-title h3, .dt-sc-parallax-section.dark-bg h3, .dt-sc-parallax-section.dark-bg h2, .dt-sc-parallax-section.dark-bg p, .dark-bg.dt-sc-parallax-section q, .dark-bg #pager a.selected:before, 
+.dark-bg .dt-sc-contact-details, .dark-bg .dt-sc-contact-details a, .dark-bg .dt-sc-contact-details h4, .dark-bg.contact-parallax h4, .dark-bg.contact-parallax label, .dark-bg.contact-parallax a:hover, 
+.dark-bg .twitter-parallax .latest-tweets .tweet_text, .light-bg .dark-bg .dt-sc-contact-details span.ico i, .dark-bg .dark-bg .dt-sc-contact-details span.ico i, .dark-bg input[type="submit"], .dark-bg button, 
+.dark-bg input[type="button"], .dark-bg .dt-sc-contact-details ul li span.ico i, .dark-bg .dt-sc-tb-header .dt-sc-price p, .dark-bg .border-title h1, .dark-bg .border-title h2, .dark-bg .border-title h3, .dark-bg .border-title h4, .dark-bg .border-title h5, .dark-bg .border-title h6, .dark-bg p, .dark-bg .dt-sc-ico-content .icon span, .dark-bg a:hover, .dark-bg #carouselnav a:before, .dark-bg ul.dt-sc-tabs-vertical-frame li a, .dark-bg .dt-sc-sorting-container a, 
+.dark-bg .dt-sc-button.load-more, .dark-bg .entry-details .entry-metadata p a:hover, .dark-bg .dt-sc-button.view-all, .dark-bg h4.border-title, .inner-page.dark-bg .content-main a:hover, 
+.inner-page.dark-bg .content-main .post-nav-container a span:hover, .dark-bg.inner-page ol.dt-sc-fancy-list li span, .dark-bg.inner-page ul.dt-sc-fancy-list li, .dark-bg .dt-sc-dropcap.dt-sc-dropcap-bordered-circle, 
+.dark-bg .service h6 a:hover, .dark-bg .dt-sc-tabs-vertical-frame-content p, .dark-bg .dt-sc-tabs-frame-content, .dark-bg .dt-sc-ico-content ul li, .dark-bg .dt-sc-team-carousel-wrapper .carousel-arrows a i, .dark-bg .dt-sc-tabs-vertical-frame-content, .dark-bg .commententries h4, .dark-bg #respond h3, .dark-bg .post-author-details h3, .dark-bg ul.commentlist li .author-name, .dark-bg p.logged-in-as a, .dark-bg .widget h3.widgettitle, 
+.dark-bg .widget a, .dark-bg .widget li:before, .dark-bg .widget span,.dark-bg .widget ul li, .dark-bg .product_title, .dark-bg .woocommerce #content div.product p.price del, .dark-bg .woocommerce #content div.product span.price del, 
+.dark-bg .woocommerce div.product p.price del, .dark-bg .woocommerce div.product span.price del, .dark-bg .woocommerce-page #content div.product p.price del, .dark-bg .woocommerce-page #content div.product span.price del, 
+.dark-bg .woocommerce-page div.product p.price del, .dark-bg .woocommerce-page div.product span.price del, .dark-bg .woocommerce #content div.product p.price ins, .dark-bg .woocommerce #content div.product span.price ins, 
+.dark-bg .woocommerce div.product p.price ins, .dark-bg .woocommerce div.product span.price ins, .dark-bg .woocommerce-page #content div.product p.price ins, .light-bg .woocommerce-page #content div.product span.price ins, 
+.dark-bg .woocommerce-page div.product p.price ins, .dark-bg .woocommerce-page div.product span.price ins, .dark-bg .woocommerce #review_form #respond .form-submit, .dark-bg .dt-sc-testimonial q, .dark-bg ul.dt-sc-fancy-list li, 
+.dark-bg ol.dt-sc-fancy-list li span, .dark-bg blockquote.type2 cite, .dark-bg blockquote.type3 cite, .dark-bg blockquote.type4 cite, .dark-bg .price_slider_amount .price_label { color:#ddd; }
+	
+.dark-bg .dt-sc-ico-content.type2:hover, .dark-bg .dt-sc-ico-content.type4 h4 a:after , .dark-bg .entry-details .featured-post, .dark-bg .product-wrapper .product-details, .dark-bg .summary .yith-wcwl-add-to-wishlist:hover:after, 
+.dark-bg .single_add_to_cart_button:hover:after, .dark-bg .dt-sc-callout-box.with-icon.type5 .icon, .dark-bg .error-info .dt-sc-button:hover:after, .dark-bg input[type="submit"]:hover, .dark-bg button:hover, .dark-bg input[type="button"]:hover { background:#fff; }	
+
+.dark-bg .dt-sc-ico-content.type2 p, .dark-bg .dt-sc-ico-content.type2 h4 a, .dark-bg .dt-sc-parallax-section.light-bg .social-media ul li a:hover i, .inner-page.dark-bg .content-main .fig-content a.dt-sc-button:hover, 
+.dark-bg .widget a:hover, .dark-bg #blog.inner-page .content-main ul li, .dark-bg #blog.inner-page .content-main ul.tick li:before, .dark-bg .entry-title h4 a:hover, .dark-bg .dt-sc-toggle p.dt-sc-toggle-accordion a, 
+.dark-bg .content-main .dt-sc-team.type2 h4, .dark-bg .content-main .dt-sc-team.type2 span, .dark-bg .content-main .dt-sc-team.type2 p, .dark-bg .dt-sc-toggle-frame p.dt-sc-toggle-accordion a, .dark-bg.inner-page .content-main ul.commentlist li .reply a, .dark-bg .dt-sc-parallax-section.light-bg .social-media ul li a:hover i , .dark-bg #scrolldown a, .dark-bg .featured-post span, .dark-bg .light-bg .dt-sc-tb-header .dt-sc-price p, .dark-bg .entry-metadata a, .dark-bg .summary .yith-wcwl-add-to-wishlist a, .dark-bg .product_meta > span, .dark-bg .product_meta > span a, .dark-bg .woocommerce-tabs ul.tabs li a, .dark-bg .woocommerce-tabs .entry-content h2, .dark-bg .error-info h1, .dark-bg .error-info h2, .dark-bg .error-info h3, .dark-bg .error-info h4, .dark-bg .error-info h5, .dark-bg .error-info h6, .dark-bg .error-info p, .dark-bg .error-info .dt-sc-button, .dark-bg .pagination .next-post a,
+.dark-bg .woocommerce #review_form_wrapper #commentform p.comment-form-rating label, .dark-bg .dt-sc-callout-box.with-icon.type1 .icon span, .dark-bg .dt-sc-callout-box.with-icon.type1 .dt-sc-button.small:hover, 
+.dark-bg .dt-sc-callout-box.with-icon.type1:hover h4, .dark-bg .dt-sc-callout-box.with-icon.type1:hover h5, .dark-bg .dt-sc-callout-box.with-icon.type5 h4, .dark-bg .dt-sc-callout-box.with-icon.type5 h5, .dark-bg blockquote.type2 q, .dark-bg blockquote.type4 q, .dark-bg .dt-sc-pullquote1, .dark-bg .dt-sc-pullquote2, .dark-bg .dt-sc-pullquote4, .dark-bg .dt-sc-pullquote5, .dark-bg .dt-sc-pullquote6, .dark-bg .cart-collaterals .cart_totals td, 
+.dark-bg .cart-collaterals .cart_totals td a, .dark-bg .woocommerce .cart input[type="submit"], .dark-bg .woocommerce .cart input[type="button"], .dark-bg .dt-sc-pullquote3.dark-bg .widget.widget_calendar td, 
+.dark-bg .content-main table#wp-calendar td a, .dark-bg .pagination li.active-page, .dark-bg .pagination li a.inactive,.dark-bg .pagination .prev-post a,  ul.commentlist li.comment .reply a, .sb-slidebar ul.sub-menu li.current-menu-item a, .sb-slidebar ul.sub-menu li a:hover, .dark-bg #menu-header-menu.pusy-left-menu > li.current-menu-ancestor > a, .dark-bg #menu-header-menu.pusy-left-menu > li.current_page_item > a, .dark-bg #menu-header-menu.pusy-left-menu > li.current-menu-ancestor > ul.sub-menu > li.current-menu-ancestor > a, .dark-bg .no-header-bg #header #main-menu ul > li.current-menu-ancestor > a, .dark-bg .no-header-bg #header #main-menu ul > li.current-menu-ancestor > ul.sub-menu > li.current-menu-ancestor > a { color:#fff; }
+
+.dark-bg .dt-sc-ico-content.type2:hover > p, .dark-bg .dt-sc-ico-content.type2:hover h4 > a, .dark-bg .dt-sc-ico-content.type2:hover .icon span, .inner-page.dark-bg .content-main .form-submit:hover input[type="submit"], 
+.dark-bg .content-main .tagcloud a:hover, .dark-bg .content-main .reply a.dt-sc-button:hover, .dark-bg .content-main .dt-sc-team h4, .dark-bg .content-main .dt-sc-team figcaption span, 
+.dark-bg.inner-page .dt-sc-team ul.dt-sc-social-icons a:hover, .dark-bg .content-main .bx-controls-direction a:hover, .dark-bg #commentform p.form-submit.dt-sc-button:hover input[type="submit"], 
+.dark-bg.inner-page .content-main ul.commentlist li .reply a:hover, .dark-bg .dt-sc-ico-content.type4:hover  h4 a, .dark-bg .dt-sc-ico-content.type4:hover ul li , .dark-bg .entry-details .featured-post span, 
+.dark-bg .dt-sc-ico-content:hover ul li, .dark-bg .summary .yith-wcwl-wishlistaddedbrowse.show a:hover, .dark-bg .summary .yith-wcwl-wishlistexistsbrowse.show a:hover, .dark-bg .summary .yith-wcwl-add-to-wishlist:hover span.feedback, .dark-bg .single_add_to_cart_button:hover, .dark-bg .summary .yith-wcwl-wishlistexistsbrowse.show:hover span.feedback, .dark-bg .yith-wcwl-add-to-wishlist:hover .yith-wcwl-wishlistexistsbrowse.show span.feedback, 
+.dark-bg .woocommerce .cart_item td input[type="text"], .dark-bg .woocommerce .cart_item td input[type="password"], .dark-bg .woocommerce .cart_item td input[type="email"], .dark-bg .woocommerce .cart_item td input[type="url"], 
+.dark-bg .woocommerce .cart_item td input[type="tel"], .dark-bg .woocommerce .cart_item td input[type="range"], .dark-bg .woocommerce .cart_item td input[type="date"], .dark-bg .woocommerce .cart_item td input[type="search"], 
+.dark-bg .woocommerce .cart_item td textarea, .dark-bg .woocommerce .wc-proceed-to-checkout .checkout-button.button, .dark-bg .error-info .dt-sc-button:hover, .woocommerce .dark-bg #review_form #respond .form-submit:hover, 
+.woocommerce .dark-bg #review_form #respond .form-submit:hover input[type="submit"], .dark-bg .dt-sc-callout-box.type2 a.dt-sc-button:hover, .dark-bg .dt-sc-callout-box.type3 a.dt-sc-button:hover, 
+.dark-bg .dt-sc-callout-box.type4 a.dt-sc-button:hover, .dark-bg .dt-sc-callout-box.with-icon.type5:hover h4, .dark-bg .dt-sc-callout-box.with-icon.type5:hover h5, .dark-bg p.dt-sc-toggle-accordion:before, .dark-bg p.dt-sc-toggle:before, .dark-bg .shop_table td.actions input.button:hover, .dark-bg .content-main a.dt-sc-tooltip-bottom:hover, .dark-bg .content-main a.dt-sc-tooltip-top:hover, .dark-bg .content-main a.dt-sc-tooltip-right:hover, 
+.dark-bg .content-main a.dt-sc-tooltip-left:hover, .dark-bg .content-main #review_form #commentform input.submit:hover, .dark-bg .content-main #review_form #commentform .form-submit:hover input.submit, .dark-bg .content-main label a.about_paypal, .dark-bg .pagination ul li.active-page, .dark-bg input[type="submit"]:hover, .dark-bg button:hover, .dark-bg input[type="button"]:hover, ul.commentlist li.comment .reply a:hover  { color:#000; }
+
+pre, code { background:#2e2e2e; border-color:#575757; }
+
+.dark-bg.banner .caption a.dt-sc-button, .dark-bg .summary .yith-wcwl-wishlistaddedbrowse.show a, .dark-bg .summary .yith-wcwl-wishlistexistsbrowse.show a, .dark-bg .summary .yith-wcwl-wishlistexistsbrowse.show span.feedback, 
+.dark-bg .woocommerce .wc-proceed-to-checkout .checkout-button.button:hover, .dark-bg .dt-sc-callout-box.with-icon.type1 .icon, .dark-bg form.woocommerce-product-search input.search-field, 
+.dark-bg form.woocommerce-product-search input[type="submit"], .dark-bg.woocommerce-page table.cart td.actions .coupon .input-text, .dark-bg .woocommerce-shipping-calculator p button, .dark-bg .post-search input[type="text"] { color:#fff; border-color:#fff; }
+
+.dark-bg .featured-post, .dark-bg .product .summary .quantity input[type="number"], .dark-bg .summary .yith-wcwl-add-to-wishlist, .dark-bg .single_add_to_cart_button:after, .dark-bg .woocommerce #review_form #respond .form-submit, 
+.dark-bg .pagination ul li.active-page, .dark-bg input[type="submit"], .dark-bg button, .dark-bg input[type="button"], ul.commentlist li.comment .reply a.comment-reply-link { border: 1px solid #fff;}
+.dark-bg .featured-post span.text, .dark-bg .dark-bg .dt-sc-pr-tb-col:hover .dt-sc-buy-now .dt-sc-button.small i, .dark-bg .dark-bg .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button.small:hover, 
+.dark-bg .dark-bg .dt-sc-pr-tb-col .dt-sc-buy-now .dt-sc-button.small:hover i { border-left: 1px solid #fff; }
+
+.dark-bg .dt-sc-ico-content.type2:hover .icon span, .dark-bg .dt-sc-tabs-vertical-frame-content i, .dark-bg .dt-sc-tabs-frame-content i { opacity:0.1; }
+	
+.dark-bg .dt-sc-button:after, .dark-bg .dt-sc-sorting-container a:after, .dark-bg .dt-sc-sorting-container a.active-sort:after, .dark-bg .dt-sc-sorting-container a.active-sort, .dark-bg .content-main .tagcloud a:after, 
+.dark-bg .content-main p.form-submit.dt-sc-button:after, .dark-bg .woocommerce .wc-proceed-to-checkout .checkout-button.button, .dark-bg .woocommerce #review_form #respond .form-submit:after, 
+.dark-bg .shop_table td.actions input.button:hover { background:#ddd; }	
+
+.dark-bg .fig-content a.dt-sc-button:after, .shop_table.cart td { background:#000; }
+.dark-bg .services p { color:rgba(255, 255, 255, 0.7); text-align:left; margin-top: 0px; margin-bottom:8px; }
+
+.dark-bg .error-info input[type="submit"] { border: 1px solid #ddd; border-left: none; }
+	
+.dark-bg .border-title h1, .dark-bg .border-title h2, .dark-bg .border-title h3, .dark-bg .border-title h4, .dark-bg .border-title h5, .dark-bg .border-title h6, .dark-bg .dt-sc-dropcap.dt-sc-dropcap-bordered-circle { border-color:#ddd; }
+	
+.dark-bg .dt-sc-tb-header .dt-sc-price { border-top: 1px dashed #d2d2d2; border-bottom: 1px dashed #d2d2d2; }
+.dark-bg .dt-sc-pr-tb-col .dt-sc-buy-now { border-top: 1px dashed #d2d2d2; }
+	
+.dark-bg .entry-details .entry-metadata p, .dark-bg .entry-details .entry-metadata p a, .dark-bg .entry-details .entry-metadata span , .dark-bg .entry-details .entry-body, .dark-bg .entry-details .blog-items .entry-body, 
+.dark-bg .woocommerce .cross-sells .product-details a:hover, .dark-bg .black-box .entry-body, .dark-bg .black-box .entry-body p, .dark-bg .black-box .entry-body p a, .dark-bg .blog-items .entry-body, 
+.dark-bg .blog-items .entry-body p, a, h1, h2, h3, h4, h5, h6, body { color:#9c9c9c; }
+.dark-bg .dt-sc-our-progress.type2, .dark-bg .dt-sc-our-progress.type4, .dark-bg .woocommerce ul.cart_list li a.remove, .dark-bg .pagination li.active-page, { background: #878787; }
+
+.dark-bg .dt-sc-our-progress.type1, .dark-bg .dt-sc-our-progress.type3, .dark-bg .pagination .prev-post a, .dark-bg .pagination .next-post a { -webkit-box-shadow: inset 0px 0px 0px 1px rgba(221,221,221,1); 
+-moz-box-shadow: inset 0px 0px 0px 1px rgba(221,221,221,1); box-shadow: inset 0px 0px 0px 1px rgba(221,221,221,1); }
+	
+.dark-bg .dt-sc-sorting-container a.active-sort, .dark-bg .dt-sc-parallax-section.light-bg .social-media ul li a:hover, .inner-page.dark-bg .content-main a.dt-sc-button.dt-sc-tooltip-left:hover, 
+.inner-page.dark-bg .content-main a.dt-sc-button.dt-sc-tooltip-right:hover, .inner-page.dark-bg .content-main a.dt-sc-button.dt-sc-tooltip-bottom:hover, .inner-page.dark-bg .content-main a.dt-sc-button.dt-sc-tooltip-top:hover, 
+.banner.dark-bg .caption a.read-more:hover, .dark-bg .social-media li a:hover i, .dark-bg .dt-sc-sorting-container a:hover, .dark-bg .dt-sc-button.load-more:hover, .dark-bg .dt-sc-button.view-all:hover, 
+.dark-bg .dt-sc-ico-content.type4:hover > p, .dark-bg .dt-sc-callout-box.with-icon.type5:hover .dt-sc-button, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-team h1, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-team h2, 
+.page-template-tpl-fullwidth .dark-bg #primary .dt-sc-team h3, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-team h4, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-team h5, 
+.page-template-tpl-fullwidth .dark-bg #primary .dt-sc-team h6, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-ico-content.type4:hover h4 a, .dark-bg form.login p.form-row .button:hover, 
+.dark-bg form.lost_reset_password p.form-row .button:hover { color:#000; }
+
+.dark-bg .social-media li a:hover:after, .woocommerce .dark-bg #review_form #respond .form-submit:after { color:#000; background:#ddd; }
+.dark-bg .social-media.type1 li a:after {  -ms-transform: none;  -webkit-transform: none; transform: none; left:0; bottom:0; content:none; }
+.dark-bg .social-media.type1 li a:hover:after { border:none; background:none; width:100%; height:100%; color:#fff; }
+	
+.dark-bg .dt-sc-pr-tb-col, .dark-bg .dt-sc-partner-carousel-wrapper .carousel-arrows a:hover, .dark-bg .social-media li a:after, .banner.dark-bg .caption a.read-more:after, 
+.dark-bg .woocommerce #review_form #respond .form-submit:hover:after, .dark-bg .dt-sc-callout-box.type5:hover, .dark-bg .dt-sc-callout-box.with-icon.type4 .icon, .dark-bg .dt-sc-callout-box.with-icon.type5:hover, 
+.dark-bg .dt-sc-ico-content.type1 h4 a:after, .dark-bg .dt-sc-ico-content.type3 h4 a:before, .dark-bg p.dt-sc-toggle-accordion:before, .dark-bg p.dt-sc-toggle:before, form.login p.form-row .button:hover, 
+form.lost_reset_password p.form-row .button:hover { background:#fff; }
+.dark-bg .dt-sc-partner-carousel-wrapper .carousel-arrows a { box-shadow: inset 0px 0px 0px 1px rgba(221, 221, 221, 1); -moz-box-shadow: inset 0px 0px 0px 1px rgba(221, 221 ,221 , 1); -webkit-box-shadow: inset 0px 0px 0px 1px rgba(221,221,221,1); }
+	
+.dark-bg .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button { color:#fff; background:#000; border:1px solid #000; }
+.dark-bg .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button:hover { color:#fff; border:1px solid #000; }
+.dark-bg .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button.small i { border-color:#ddd; }
+.dark-bg .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button:hover:after, .dark-bg .summary .yith-wcwl-add-to-wishlist:hover a { background:none; color:#000;}
+.dark-bg .entry-details .featured-post span.text, .dark-bg .dt-sc-callout-box.with-icon.type4 .icon { border-color:#000; }
+
+.dark-bg .dt-sc-pr-tb-col .dt-sc-buy-now .dt-sc-button:hover { color:#fff; border-color:#ddd;}
+.dark-bg .dt-sc-pr-tb-col .dt-sc-buy-now .dt-sc-button:hover:after , .dark-bg .dt-sc-parallax-section.light-bg .social-media ul li a:hover:after, .dark-bg .dt-sc-callout-box.with-icon.type4:hover .icon, 
+.dark-bg .woocommerce ul.cart_list li a.remove { background: #000; }
+
+.dark-bg .dark-bg .dt-sc-pr-tb-col:hover .dt-sc-buy-now .dt-sc-button, .dark-bg .dt-sc-callout-box.with-icon.type5:hover .icon { background: #000; color: #fff; }
+
+.dark-bg .dt-sc-tb-header .dt-sc-price p, .dark-bg .dt-sc-callout-box.type1, .dark-bg .dt-sc-callout-box.type5, .dark-bg .dt-sc-callout-box.type2, .dark-bg .dt-sc-callout-box.type3, .dark-bg .dt-sc-callout-box.type4, 
+.dark-bg .dt-sc-callout-box.with-icon.type5, .dark-bg .dt-sc-titled-box-content, .dark-bg blockquote.type2, .dark-bg blockquote.type4, .dark-bg blockquote.type6, .dark-bg .dt-sc-pullquote1, .dark-bg .dt-sc-pullquote2, 
+.dark-bg .dt-sc-pullquote5, .dark-bg .dt-sc-pullquote6, .dark-bg .widget .widget_shopping_cart_content, .dark-bg tbody tr:nth-child(2n+1) td, .dark-bg .dt-sc-pullquote3 { background:#2e2e2e; }
+
+.dark-bg #fp-nav span, .fp-slidesNav span, .dark-bg .entry-title h4 a, .dark-bg .woocommerce-message a.button.wc-forward:hover { color:#878787; }
+.dark-bg .dt-sc-team-cmt p, .dark-bg .product-details > h5 a:hover, .dark-bg .woocommerce .cross-sells .product-details a, .dark-bg .woocommerce .shipping-calculator-button { color:#353535; }
+
+.dark-bg .dt-sc-tabs-vertical-frame-content h4, .dark-bg .content-main  h1, .dark-bg .content-main  h2, .dark-bg .content-main  h3, .dark-bg .content-main  h4, .dark-bg .content-main  h5, .dark-bg .content-main  h6, 
+.dark-bg .content-main a, .dark-bg .content-main .post-nav-container a span, .inner-page.dark-bg .content-main a.dt-sc-button.dt-sc-tooltip-left, .inner-page.dark-bg .content-main a.dt-sc-button.dt-sc-tooltip-right, 
+.inner-page.dark-bg .content-main a.dt-sc-button.dt-sc-tooltip-bottom, .inner-page.dark-bg .content-main a.dt-sc-button.dt-sc-tooltip-top, .dark-bg .fig-content a.dt-sc-button:hover , .dark-bg .social-media li a i, 
+.page-template-tpl-fullwidth .dark-bg #primary h1, .page-template-tpl-fullwidth .dark-bg #primary h2, .page-template-tpl-fullwidth .dark-bg #primary h3, .page-template-tpl-fullwidth .dark-bg #primary h4, 
+.page-template-tpl-fullwidth .dark-bg #primary h5, .page-template-tpl-fullwidth .dark-bg #primary h6, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-ico-content.type4 h4 a, .dark-bg .shop_table.cart td, 
+.dark-bg .woocommerce .cart_item td input[type="number"] { color:#fff; }
+
+.dt-sc-parallax-section .border-title h1, .dt-sc-parallax-section .border-title h2 ,.dt-sc-parallax-section .border-title h3, .dt-sc-parallax-section .border-title h4 , .dt-sc-parallax-section .border-title h5, 
+.dt-sc-parallax-section .border-title h6, .dark-bg .pagination ul li a { color:#fff; border-color:#fff; }
+
+.dark-bg .dt-sc-tb-content li , .dark-bg .dt-sc-tb-title h5, .dark-bg .dt-sc-pr-tb-col .dt-sc-buy-now .dt-sc-button, .dark-bg .fig-content a.dt-sc-button, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-tb-title h1, 
+.page-template-tpl-fullwidth .dark-bg #primary .dt-sc-tb-title h2, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-tb-title h3, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-tb-title h4, 
+.page-template-tpl-fullwidth .dark-bg #primary h5, .page-template-tpl-fullwidth .dark-bg #primary .dt-sc-tb-title h6 { color:#2e2e2e; }	
+.dark-bg .dt-sc-pr-tb-col .dt-sc-buy-now .dt-sc-button { border:1px solid #666667; }	
+.dark-bg .dt-sc-titled-box h6.dt-sc-titled-box-title, .dark-bg .dt-sc-titled-box, .dark-bg .dt-sc-pullquote1, .dark-bg .dt-sc-pullquote2, .dark-bg .dt-sc-pullquote3, .dark-bg .dt-sc-pullquote4, .dark-bg .dt-sc-pullquote5, 
+.dark-bg .dt-sc-pullquote6, .dark-bg .dt-sc-callout-box.type3, .dark-bg .dt-sc-callout-box.type4, .dark-bg .dt-sc-callout-box.with-icon.type2, .dark-bg blockquote.type2, .dark-bg blockquote.type4, .dark-bg blockquote.type6:after { border-color: #666667; }	
+.dark-bg .dt-sc-buy-now .dt-sc-button.small i { border-left: 1px solid #2e2e2e; }	
+.dark-bg .dt-sc-buy-now .dt-sc-button:after { color:#000; background:#000; }
+
+.dark-bg .boxed .wrapper, .dark-bg .boxed #panel, .dark-bg .boxed .content-main  { background: #111; }
+
+.dark-bg .content-main .main-title h1, .dark-bg .content-main .main-title h2, .dark-bg .content-main .main-title h3, .dark-bg .content-main .main-title h4, .dark-bg .content-main .main-title h5, .dark-bg .content-main .main-title h6 { color:#cba73c; }
+
+.dark-bg blockquote.type4:before { border-left-color: #000; }
+.dark-bg .loading-bar { color:#fff; -webkit-box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1); -moz-box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1); box-shadow: inset 0px 0px 0px 1px rgba(255,255,255,1); }
+.dark-bg .product-wrapper { box-shadow: 0px 0px 0px 1px rgba(221, 221, 221, 1); -moz-box-shadow: 0px 0px 0px 1px rgba(221, 221 ,221 , 1); -webkit-box-shadow: 0px 0px 0px 1px rgba(221,221,221,1); }
+
+.dark-bg .dt-sc-ico-content.type4:hover h4 a:after{ background: #cba73c; }
+
+.dark-bg .woocommerce-shipping-calculator p button:hover, .dark-bg .woocommerce form p input.button:hover, .dark-bg .pagination ul li a:hover, .dark-bg .pagination .prev-post a:hover, .dark-bg .pagination .next-post a:hover, 
+.dark-bg .dt-sc-team-carousel-wrapper .carousel-arrows a i:hover { background:#ddd; color:#000; }

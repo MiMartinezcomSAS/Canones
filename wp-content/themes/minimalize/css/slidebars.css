@@ -1,0 +1,81 @@
+/* -----------------------------------
+ * Slidebars
+ * Version 0..10
+ * http://plugins.adchsm.me/slidebars/
+ *
+ * Written by Adam Smith
+ * http://www.adchsm.me/
+ *
+ * Released under MIT License
+ * http://plugins.adchsm.me/slidebars/license.txt
+ *
+----------------------------------- */
+
+#sb-site, .sb-site-container { width: 100%;	position: relative;	z-index: 1; }
+
+.sb-slidebar { right:-4px !important; right:15%\0/ !important; width:25%\0/; height: 100%; overflow-y: auto; position: fixed; top: 57px; z-index: 0; display: none; background-color: #000; -webkit-transform: translate(0px); }
+
+.sb-left { left: 0; }
+.sb-right { right: 0; }
+
+html.sb-static .sb-slidebar, .sb-slidebar.sb-static { position: absolute; }
+
+.sb-slidebar.sb-active { display: block; }
+
+.sb-style-overlay { z-index: 99999; }
+
+.sb-momentum-scrolling { -webkit-overflow-scrolling: touch; }
+
+.sb-slidebar { width: 30%; }
+.sb-width-thin { width: 15%; }
+.sb-width-wide { width: 45%; }
+
+@media (max-width: 480px) { 
+	.sb-slidebar { width: 70%; }
+	.sb-width-thin { width: 55%; }
+	.sb-width-wide { width: 85%; }
+}
+
+@media (min-width: 481px) { 
+	.sb-slidebar { width: 25%; }
+	.sb-width-thin { width: 40%; }
+	.sb-width-wide { width: 70%; }
+}
+
+@media (min-width: 768px) { 
+	.sb-slidebar { width: 35%; }
+	.sb-width-thin { width: 25%; }
+	.sb-width-wide { width: 55%; }
+}
+
+@media (min-width: 970px) { 
+	.sb-slidebar { width: 30%; right:17.5%\0/ !important; width:18%\0/;	}
+	.sb-width-thin { width: 15%; }
+	.sb-width-wide { width: 45%; }
+}
+
+@media (min-width: 1200px) { 
+	.sb-slidebar { width: 18%; right:17.5%\0/ !important; width:18%\0/; }
+	.sb-width-thin { width: 5%; }
+	.sb-width-wide { width: 35%; }
+}
+
+.sb-slide, #sb-site, .sb-site-container, .sb-slidebar {	-webkit-transition: -webkit-transform 400ms ease; -moz-transition: -moz-transform 400ms ease; -o-transition: -o-transform 400ms ease; transition: transform 400ms ease;
+	-webkit-transition-property: -webkit-transform, left, right; }
+ 
+.sb-hide { display: none; }
+
+.sb-slidebar ul.sub-menu { padding: 0; margin-left: 20px; margin-top: 1px; }
+.sb-slidebar ul.sub-menu li a { margin-left: 1px; margin-top: 1px; }
+.sb-slidebar ul.sub-menu li { position: relative; display: inline-block; }
+.sb-slidebar ul.sub-menu li:last-child { border-bottom: none; }
+.sb-slidebar ul.sub-menu ul.sub-menu { margin-bottom: 1px; }
+.sb-slidebar ul.sub-menu ul.sub-menu li a { margin-top: 0px; }
+
+.sb-slidebar ul ul.sub-menu li:after { content: ''; display: block; margin: auto; height: 1px; width: 0;  background: #fff; transition: width .5s ease, background-color .5s ease; bottom: -1px; position: absolute; right: 0; }
+.sb-slidebar ul ul.sub-menu li:before { content: ''; display: block; margin: auto; height: 1px; width: 0;  background: #fff; transition: width .5s ease, background-color .5s ease; top: -1px; position: absolute; left: 0; }
+.sb-slidebar ul ul.sub-menu li:hover:after, .sb-slidebar ul.sub-menu li.current-menu-item:after { width: 140px; }
+.sb-slidebar ul ul.sub-menu li:hover:before, .sb-slidebar ul.sub-menu li.current-menu-item:before { width: 100px; }
+
+.sb-slidebar ul.sub-menu li.current-menu-item a, .sb-slidebar ul.sub-menu li a:hover { background: #000; }
+.sb-slidebar ul.sub-menu > li:hover > ul.sub-menu > li:hover:after, .sb-slidebar ul.sub-menu > li:hover > ul.sub-menu > li:hover:before { content:'' }

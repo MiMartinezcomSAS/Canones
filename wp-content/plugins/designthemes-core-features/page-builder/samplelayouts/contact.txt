@@ -1,0 +1,116 @@
+<div style="opacity: 1; z-index: 1;" data-placeholder="Fullwidth Section" data-name="fullwidth_section" class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_fullwidth" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"><div class="backgroundcolor dt_module_setting" data-option_name="backgroundcolor"></div><div class="backgroundimage dt_module_setting" data-option_name="backgroundimage">http://placehold.it/1920x1266</div><div class="opacity dt_module_setting" data-option_name="opacity"></div><div class="parallax dt_module_setting" data-option_name="parallax">yes</div><div class="backgroundrepeat dt_module_setting" data-option_name="backgroundrepeat">no-repeat</div><div class="backgroundposition dt_module_setting" data-option_name="backgroundposition">left top</div><div class="paddingtop dt_module_setting" data-option_name="paddingtop">70</div><div class="paddingbottom dt_module_setting" data-option_name="paddingbottom">70</div><div class="textcolor dt_module_setting" data-option_name="textcolor"></div><div class="class dt_module_setting" data-option_name="class">dark-bg</div><div class="disable_container dt_module_setting" data-option_name="disable_container">no</div></div>
+						</div><div class="dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Add Any Content Here" data-name="doshortcode_anycontent" class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="acc_content dt_module_setting dtthemes_module_content" data-option_name="acc_content"><p>[contact-form-7 id="4" title="Contact form 1"]</p></div></div>
+					</div></div>
+					</div>
+<div style="opacity: 1; z-index: 1;" data-placeholder="Social Links" data-name="doshortcode_social_links" class="dt_module dt_m_doshortcode_social_links dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-sociallinks dt_icon"></span>
+					<span class="dt_module_name">Social Links</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="sl_content dt_module_setting dtthemes_module_content" data-option_name="sl_content"><p>[dt_sc_social_links twitter="#" facebook="#" google="#" linkedin="#" youtube="#" type="type1" /]</p></div></div>
+					<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div>
+<div style="opacity: 1; z-index: 1;" data-placeholder="Fullwidth Section" data-name="fullwidth_section" class="dt_module dt_disable_resize dt_fullwidth_section fullwidth_section ui-draggable dt_first"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name">Fullwidth Section</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_fullwidth" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_fullwidthsection_data_settings"><div class="backgroundcolor dt_module_setting" data-option_name="backgroundcolor"></div><div class="backgroundimage dt_module_setting" data-option_name="backgroundimage"></div><div class="opacity dt_module_setting" data-option_name="opacity"></div><div class="parallax dt_module_setting" data-option_name="parallax">no</div><div class="backgroundrepeat dt_module_setting" data-option_name="backgroundrepeat">no-repeat</div><div class="backgroundposition dt_module_setting" data-option_name="backgroundposition">left top</div><div class="paddingtop dt_module_setting" data-option_name="paddingtop"></div><div class="paddingbottom dt_module_setting" data-option_name="paddingbottom"></div><div class="textcolor dt_module_setting" data-option_name="textcolor"></div><div class="class dt_module_setting" data-option_name="class">dark-bg dt-sc-contact-info</div><div class="disable_container dt_module_setting" data-option_name="disable_container">yes</div></div>
+						</div><div class="dt_fullwidth_section_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="1/2 Column" data-name="one_half" class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_no_modules dt_first"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_column" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_columndata_settings"><div data-column_animation_delay="400" data-column_animation_type="None" data-column_type="type2" id="column_data"></div></div>
+						</div><div class="dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Whitespace" data-name="hr_invisible" class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable dt_first"><span class="ico-divider dt_icon"></span>
+					<span class="dt_module_name">Whitespace</span><div class="dt_module_options"><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Add Any Content Here" data-name="doshortcode_anycontent" class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="acc_content dt_module_setting dtthemes_module_content" data-option_name="acc_content"><h3>Contact Info</h3>
+</div></div></div><div style="opacity: 1; z-index: 1;" data-placeholder="Address" data-name="address" class="dt_module dt_m_address dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-address dt_icon"></span>
+					<span class="dt_module_name">Address</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="icon dt_module_setting" data-option_name="icon">map-marker</div><div class="address_text dt_module_setting" data-option_name="address_text">Address: </div><div class="address_details dt_module_setting" data-option_name="address_details">No-58 A,East Madison St, Baltimore, MD, USA</div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Phone" data-name="phone" class="dt_module dt_m_phone dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-phone dt_icon"></span>
+					<span class="dt_module_name">Phone</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="icon dt_module_setting" data-option_name="icon">phone</div><div class="phone_text dt_module_setting" data-option_name="phone_text">Phone: </div><div class="phone dt_module_setting" data-option_name="phone">+1 200 258 2145</div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Fax" data-name="fax" class="dt_module dt_m_fax dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-fax dt_icon"></span>
+					<span class="dt_module_name">Fax</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="icon dt_module_setting" data-option_name="icon">paperclip</div><div class="fax_text dt_module_setting" data-option_name="fax_text">Fax: </div><div class="fax dt_module_setting" data-option_name="fax">+1 100 458 2345</div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Email" data-name="email" class="dt_module dt_m_email dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-email dt_icon"></span>
+					<span class="dt_module_name">Email</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="icon dt_module_setting" data-option_name="icon">envelope</div><div class="email_text dt_module_setting" data-option_name="email_text">Email: </div><div class="emailid dt_module_setting" data-option_name="emailid">yourname@somemail.com</div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="Web" data-name="web" class="dt_module dt_m_web dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-web dt_icon"></span>
+					<span class="dt_module_name">Web</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="icon dt_module_setting" data-option_name="icon">globe</div><div class="web_text dt_module_setting" data-option_name="web_text">Web: </div><div class="url dt_module_setting" data-option_name="url">http://www.google.com</div></div>
+					</div></div>
+					</div><div style="opacity: 1; z-index: 1;" data-placeholder="1/2 Column" data-name="one_half" class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_no_modules"><div class="dt_module_controls">
+							<span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+							<span class="dt_move" style="display: none;"></span>
+							<div class="dt_module_options">
+								<span title="Delete" class="dt_delete_column" style="display: block;"></span>
+								<span title="Clone" class="dt_clone_column" style="display: block;"></span>
+								<span title="Settings" class="dt_settings_arrow_column" style="display: block;"></span>
+								<span style="display:none;" title="Add Module" class="dt_add_module_column">A</span>
+							</div>
+							<div class="dt_columndata_settings"><div data-column_animation_delay="400" data-column_animation_type="None" data-column_type="type2" id="column_data"></div></div>
+						</div><div class="dt_modules_container ui-droppable ui-sortable" aria-disabled="false"><div style="opacity: 1; z-index: 1;" data-placeholder="Add Any Content Here" data-name="doshortcode_anycontent" class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first"><span class="ico-anycontent dt_icon"></span>
+					<span class="dt_module_name">Add Any Content Here</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="acc_content dt_module_setting dtthemes_module_content" data-option_name="acc_content"><p>[res_map address="Iamdesigning, 1/52,3/53, Lal Bahadhur Colony,Shringar Nagar Road, Near Gopal Naidu School, Peelamedu, Coimbatore, TN 641004" description="Iamdesigning,{br} Peelamedu, {br}Coimbatore" directionstext="(directions to our address)" icon="red" color="bw" pancontrol="no" scalecontrol="no" typecontrol="no" streetcontrol="no" zoom="14" zoomcontrol="no" draggable="yes" scrollwheel="no" width="100%" height="430px" maptype="roadmap" popup="yes" center="" refresh="no"]</p>
+</div></div>
+					</div></div>
+					</div></div>
+					</div>
+<div style="opacity: 1; z-index: 1;" data-placeholder="News Letter" data-name="doshortcode_newsletter" class="dt_module dt_m_doshortcode_newsletter dt_module_unique  ui-draggable ui-resizable dt_first"><span class="ico-address dt_icon"></span>
+					<span class="dt_module_name">News Letter</span><div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span title="Show" class="dt_showorhide dt_show" style="display: block;"></span>
+						<span title="Delete" class="dt_delete" style="display: block;"></span>
+						<span title="Clone" class="dt_clone_module" style="display: block;"></span><span title="Settings" class="dt_settings_arrow_module" style="display: block;"></span></div>
+						<div class="dt_preview"></div>
+						<div class="dt_module_settings"><div class="cic_content dt_module_setting dtthemes_module_content" data-option_name="cic_content"><p>[dt_sc_news_letter data_animation="stretchLeft" data_animation2="stretchRight" description="Feel free to place your Mail_ID and Subscribe to our Newsletter here. So that, you can receive our exiting Updates and Offers with no wait!" /]</p>
+</div></div>
+					<div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div></div>

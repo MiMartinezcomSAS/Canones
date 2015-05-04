@@ -1,0 +1,90 @@
+/*
+Theme Name: Minimalize
+Description: Minimalize is a clean, flexible and fully responsive one page design! Built with HTML5 & CSS3, the clean design can be used for any type of website; business, corporate, portfolio, blog, products, photography, education, medical etc.Endless possiblities to modify layout, styling, fonts, colors, skins easily from the backend. 15 Pre-defined skins, Woo-Commerce support to build your shop in minutes, WPML multi language plugin compatiblity, 2 premium touch enabled & responsive 2D, 3D slider show plugins included, Parallax background option with images and video (self-hosted, youtube, vimeo), SEO friendly semantic markup etc.,
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+/* CSS Document */
+body { direction:rtl; text-align:right; unicode-bidi:embed; }
+
+#logo, .newsletter .newsletter-text i, ul.dt-sc-tabs-frame li, .woocommerce-tabs ul.tabs li, .woocommerce .addresses .title h3, .woocommerce-page .addresses .title h3, .widget_recent_entries ul li p.date { float:right; }
+#main-menu, blockquote.type4 cite, blockquote.type5 cite, blockquote cite, blockquote.type3 cite, .woocommerce ul.cart_list li a.remove, input[type="submit"], button, input[type="button"], .woocommerce .addresses .title .edit, .woocommerce-page .addresses .title .edit { float:left; }
+
+.dt-style-picker-wrapper { left:auto; right:0; }
+.style-picker-ico { left:auto; right:225px; }
+
+#main-menu ul li { position:relative; }
+.pushy ul { line-height:normal; }
+.pushy { left:auto; right:-400px; }
+.pushy.pushy-open { right:0px; }
+#fp-nav { left:60px; right:auto; }
+
+.dark-bg .services p, .service-grid figure p, input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"], input[type="range"], input[type="date"], input[type="search"], textarea, input.text, #commentform p, .woocommerce #payment ul.payment_methods li, .woocommerce-page #payment ul.payment_methods li, .woocommerce form .form-row, .woocommerce-page form .form-row, .woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register, .woocommerce-page form.checkout_coupon, .woocommerce-page form.login, .woocommerce-page form.register, .pushy ul li a, .commententries h4 { text-align:right; }
+.banner .caption.quote h2 span { text-align:left; }
+
+ul.dt-sc-tabs-vertical-frame li:hover a i, ul.dt-sc-tabs-vertical-frame li a.current i { right:23px; left:auto; }
+ul.dt-sc-tabs-vertical-frame li:hover a, ul.dt-sc-tabs-vertical-frame li a.current { padding-left:20px; padding-right:54px; }
+ul.dt-sc-tabs-vertical-frame li a.current::after, ul.dt-sc-tabs-vertical-frame li a:hover::after { left:-25px; right:auto; }
+ul.dt-sc-tabs-frame li, .woocommerce-tabs ul.tabs li { border-right:0; border-left:1px solid #878787; }
+ul.dt-sc-tabs-frame li:hover a i, ul.dt-sc-tabs-frame li a.current i, .woocommerce-tabs ul.tabs li:hover a i, .woocommerce-tabs ul.tabs li a.current i { left:auto; right:10px; }
+.dt-sc-tabs-container ul.dt-sc-tabs-frame li:hover a, .dt-sc-tabs-container ul.dt-sc-tabs-frame li a.current { padding-left:20px; padding-right:45px; }
+ul.dt-sc-tabs-frame li a i, .woocommerce-tabs ul.tabs li a i, ul.dt-sc-tabs-vertical-frame li a i { right:-35px; left:auto; }
+
+p.dt-sc-toggle-accordion::before, p.dt-sc-toggle::before { left:auto; right:0; }
+p.dt-sc-toggle-accordion, p.dt-sc-toggle { padding-left:0; padding-right:50px; }
+.dt-sc-toggle-frame p.dt-sc-toggle-accordion a { padding:6px 48px 3px 15px; }
+.dt-sc-toggle-frame .dt-sc-toggle-content .block { border-right:1px solid #dfdfdf; border-left:0; }
+.dt-sc-toggle-frame .dt-sc-toggle-content { padding-right:34px; padding-left:0; }
+
+.dt-sc-button.with-icon.small { padding:11px 0px 9px 20px; }
+.dt-sc-button.with-icon.small i { padding:0 20px 0 10px; }
+.dt-sc-button.with-icon.medium { padding:16px 0px 13px 20px; }
+.dt-sc-button.with-icon.medium i { padding:0 18px 0 15px; }
+.dt-sc-button.with-icon.large { padding:21px 0px 18px 45px; }
+.dt-sc-button.with-icon.large i { padding:0 35px 0 20px; }
+.dt-sc-button.with-icon.xlarge { padding:25px 0px 23px 50px; }
+.dt-sc-button.with-icon.xlarge i { padding:0 45px 0 25px; }
+
+.service-grid, .portfolio, .sb-slidebar, #tiptip_holder, .pushy, .dt-sc-team-carousel-wrapper .carousel-arrows, .commententries h4, #slider { direction:ltr; }
+.service-grid figure h6 { right:40px; }
+
+.alignleft, img.alignleft, .dt-sc-pullquote1.alignleft { float:right; margin-left:20px; margin-right:0; }
+.alignright, img.alignright, .dt-sc-pullquote1.alignright { float:left; margin-right:20px; margin-left:0; }
+
+.featured-post { left:3px; right:auto; }
+.entry-details .entry-metadata i { margin-left:5px; margin-right:0; }
+.entry-details .entry-metadata p { float:right; padding:0 0 0 25px; }
+.entry-details .entry-metadata p::after { left:10px; right:auto; }
+
+
+#mailchimp-form p span { margin-left:5px; margin-right:20px; }
+.newsletter .newsletter-text i { margin-right:0; margin-left:25px; }
+
+.dt-sc-contact-details { padding-left:0; padding-right:55px; margin-left:0; margin-right:5%; }
+.dt-sc-contact-info h3 { margin-left:0; margin-right:6%; }
+.dt-sc-contact-details div { right:8px; left:auto; }
+.dt-sc-contact-details span.ico i { right:6px; left:auto; }
+.dt-sc-contact-details div { transform:rotate(-270deg); }
+
+.dt-sc-ico-content.type3 h4 a::before { left:auto; right:0; }
+.dt-sc-ico-content.type3 .icon { right:0; left:auto; }
+.dt-sc-ico-content.type3 { padding-left:0; padding-right:40px; }
+
+.dt-sc-buy-now .dt-sc-button.small i { margin-left:0; margin-right:15px; padding-left:0; padding-right:15px; }
+.dark-bg .dt-sc-buy-now .dt-sc-button.small i { border-right:1px solid #2e2e2e; border-left:0; }
+.dark-bg .featured-post span.text, .dark-bg .dark-bg .dt-sc-pr-tb-col:hover .dt-sc-buy-now .dt-sc-button.small i, .dark-bg .dark-bg .dt-sc-pr-tb-col.selected .dt-sc-buy-now .dt-sc-button.small:hover, .dark-bg .dark-bg .dt-sc-pr-tb-col .dt-sc-buy-now .dt-sc-button.small:hover i { border-left:0; }
+
+select { background-position:left center; }
+.widget_categories ul li a span, .widget.widget_archive ul li a span { left:10px; right:auto; }
+.widget ul li::before { right:0; left:auto; }
+.widget ul li { padding-right:25px; padding-left:0; }
+.widget ul.product_list_widget li img { float:right; margin-left:20px; margin-right:0; }
+.widget.widget_pages ul li::before { content:"\f0a5"; }
+.widget ul.recent-posts-widget li .entry-details { padding-left:0; padding-right:5%; }
+
+ul.products li .onsale, .product-thumb-wrapper .onsale { direction:ltr; }
+.product-thumb-wrapper .onsale { left:281px; right:auto; z-index:999; }
+.product-thumb-wrapper:hover .featured-tag > div span { box-sizing:border-box; }
+.woocommerce .woocommerce-product-rating .star-rating, .woocommerce-page .woocommerce-product-rating .star-rating { float:right; margin:0.5em 0px 0 4px; }
+.woocommerce #reviews #comments ol.commentlist li .comment-text, .woocommerce-page #reviews #comments ol.commentlist li .comment-text { margin:0 50px 0 0; }
+.woocommerce #reviews #comments ol.commentlist li img.avatar, .woocommerce-page #reviews #comments ol.commentlist li img.avatar { right:0; left:auto; }
