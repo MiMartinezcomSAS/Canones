@@ -26,8 +26,15 @@
                     $height = !empty($height) ? $height."px" : "46px";
 					?>
                     <a href="<?php echo home_url();?>" title="<?php echo esc_attr($blog_title);?>">
-                        <img class="normal_logo" src="<?php echo esc_url($url);?>" alt="<?php echo esc_attr($blog_title); ?>" title="<?php echo esc_attr($blog_title); ?>" id="dt_logo" />
-                        <img class="retina_logo" src="<?php echo esc_url($retina_url);?>" alt="<?php echo esc_attr($blog_title);?>" title="<?php echo esc_attr($blog_title); ?>" style="width:<?php echo esc_attr($width); ?>; height:<?php echo esc_attr($height); ?>;" id="dt_retina_logo" />
+                    <?php if ( is_front_page() ) {?> 
+                        <img src="http://192.168.0.3/canones/wp-content/uploads/2015/04/logo.png" alt="">
+                    <?php } ?>
+                    <?php if( get_the_ID() == 971) {?> 
+                        <img src="https://trello-attachments.s3.amazonaws.com/554800411858c69d65dee298/192x58/d8719f5b9a475e5f331033bdc4cb6e3c/logo1.png" alt="">
+                    <?php } ?> 
+                    <?php if( get_the_ID() == 973) {?> 
+                        <img src="https://trello-attachments.s3.amazonaws.com/554800411858c69d65dee298/192x58/306b462cba75a328bb783ef9c1ce2181/logo2.png" alt="">
+                    <?php } ?>
                     </a><?php
                 else:?>
                     <h2><a href="<?php echo home_url();?>" title="<?php echo esc_attr($blog_title);?>"><?php echo do_shortcode(get_option('blogname')); ?></a></h2><?php
