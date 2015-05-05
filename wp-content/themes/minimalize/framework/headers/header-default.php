@@ -27,7 +27,7 @@
 					?>
                     <a href="<?php echo home_url();?>" title="<?php echo esc_attr($blog_title);?>">
                     <?php if ( is_front_page() ) {?> 
-                        <img src="http://192.168.0.3/canones/wp-content/uploads/2015/04/logo.png" alt="">
+                        <img src="http://canoneslatinos.com/wp-content/uploads/2015/05/logo.png" alt="">
                     <?php } ?>
                     <?php if( get_the_ID() == 971) {?> 
                         <img src="https://trello-attachments.s3.amazonaws.com/554800411858c69d65dee298/192x58/d8719f5b9a475e5f331033bdc4cb6e3c/logo1.png" alt="">
